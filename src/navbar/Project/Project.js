@@ -44,6 +44,13 @@ const projects = [
     github: "https://prathaposs.github.io/Besant_course_projects/RandomNumberGenerator/index.html",
 
   },
+   {
+    title: "User Management",
+    image: profile,
+    description: "Developed using html,css,react,java springboot , postman for server checking and mysql",
+    github: "https://prathaposs.github.io/UserManagement/",
+
+  }
 ];
 
 const Project = () => {
