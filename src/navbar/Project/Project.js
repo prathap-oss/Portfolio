@@ -13,7 +13,7 @@ const projects = [
     title: "WEATHER APP",
     image: weather,
     description: "Developed using html,css,javascript",
-    github: "https://github.com/prathap-oss/Besant_course_projects/tree/main/weather",
+    github: "https://prathap-oss.github.io/Besant_course_projects/weather/index.html",
     
   },
   {
@@ -27,21 +27,21 @@ const projects = [
     title: "Counter",
     image: Counter,
     description: "Developed using html,css,javascript",
-    github: "https://github.com/prathap-oss/Besant_course_projects/tree/main/Counter",
+    github: " https://prathap-oss.github.io/Besant_course_projects/Counter/index.html",
 
   },
   {
     title: "Temperature Convertor",
     image: temp,
     description: "Developed using html,css,javascript",
-    github: "https://github.com/prathap-oss/Besant_course_projects/tree/main/TemperatureConvertor",
+    github: "https://prathap-oss.github.io/Besant_course_projects/TemperatureConvertor/index..html",
 
   },
   {
     title: "Randon number Generator",
     image: profile,
     description: "Developed using html,css,javascript",
-    github: "https://github.com/prathap-oss/Besant_course_projects/tree/main/RandomNumberGenerator",
+    github: "https://prathaposs.github.io/Besant_course_projects/RandomNumberGenerator/index.html",
 
   },
 ];
