@@ -1,0 +1,54 @@
+.container-animation {
+  margin: auto;
+  padding: 10px 0 0 50px;
+  height: fit-content;
+  background-color: rgb(4, 35, 42); /* Updated background color */
+  color: #ffffff; /* Text color */
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.container-animation.active {
+  opacity: 2;
+}
+
+.col-animation {
+  transition: transform 0.5s ease;
+}
+
+.col-animation.active {
+  transform: translateX(0);
+}
+
+.content {
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(194, 186, 186, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.content:hover {
+  transform: translateY(-5px);
+}
+
+.image {
+  float: right;
+  margin-right: 100px;
+  transition: transform 0.3s ease;
+  filter: grayscale(150%); /* Apply grayscale filter by default */
+}
+
+.img:hover {
+  transform: scale(1.1);
+  filter: grayscale(0%); /* Remove grayscale filter on hover */
+}
+
+@media (max-width:600px) {
+  .container-animation, .content, .img, .objective{
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+  }
+}

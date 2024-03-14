@@ -1,0 +1,16 @@
+.card_{
+    margin: auto;
+    height: fit-content;
+}
+.container_ { 
+    max-width: 100%;
+    height: fit-content;
+}
+@media (max-width:600) {
+    .container_ { 
+        max-width: 100%;
+    } 
+    .card_{
+        max-width: 100%;
+    }
+}
