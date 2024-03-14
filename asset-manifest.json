@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.3b44668e.css",
-    "main.js": "/Portfolio/static/js/main.409fd3ca.js",
+    "main.css": "/Portfolio/static/css/main.8fb68c73.css",
+    "main.js": "/Portfolio/static/js/main.a7ea3333.js",
     "static/media/Prathap.pdf": "/Portfolio/static/media/Prathap.c29be17988f335aef407.pdf",
     "index.html": "/Portfolio/index.html",
     "static/media/close_FILL0_wght400_GRAD0_opsz24.svg": "/Portfolio/static/media/close_FILL0_wght400_GRAD0_opsz24.1ded1e99216871d2a3aec0714440eb62.svg",
     "static/media/menu_FILL0_wght400_GRAD0_opsz24.svg": "/Portfolio/static/media/menu_FILL0_wght400_GRAD0_opsz24.0d3c31af19b9c297e9457042ec495ba1.svg",
-    "main.3b44668e.css.map": "/Portfolio/static/css/main.3b44668e.css.map",
-    "main.409fd3ca.js.map": "/Portfolio/static/js/main.409fd3ca.js.map"
+    "main.8fb68c73.css.map": "/Portfolio/static/css/main.8fb68c73.css.map",
+    "main.a7ea3333.js.map": "/Portfolio/static/js/main.a7ea3333.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b44668e.css",
-    "static/js/main.409fd3ca.js"
+    "static/css/main.8fb68c73.css",
+    "static/js/main.a7ea3333.js"
   ]
 }
